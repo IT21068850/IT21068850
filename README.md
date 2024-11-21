@@ -1,4 +1,4 @@
-
+# 💫 About Me:
 👋 Hi, I’m Yusri Areef.<br>📈👨‍🔬Data Scientist sharing my journey and learnings.<br>🎓 BSc (Hons) in IT, specialized in Data Science from SLIIT, Sri Lanka.<br>🚀 Passionate about Machine Learning, Artificial Intelligence, computer vision, Data Analysis & Visualization.<br>🧵📷 Currently collaborating with MAS Linea Aqua Pvt. Ltd. to enhance motion analysis in the apparel industry using camera technology.<br>
 
 
